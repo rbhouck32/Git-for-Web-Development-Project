@@ -39,4 +39,4 @@ https://codepen.io/rbhouck32/pen/OJJzpQN
     34. Why should I use version control? 
     35. How often should I commit to github? 
     36. What is the command we would use to push our repo up to github? 
-    37. Walk me through Lambda's git flow. 
+    37. Walk me through Lambda's git flow.      
